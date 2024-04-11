@@ -4,7 +4,7 @@ The purpose of â€œFinding Talent: Improving Spotify New Artist Recommendationsâ€
 
 ### Project Structure
 Directory Structure is as follows:
-- [code] (tree/main/code): Directory that holds all script related to dashboard visualization in SQL format, ETL pipeline documentation, features, and models for prediction
+- [code](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main/code) Directory that holds all script related to dashboard visualization in SQL format, ETL pipeline documentation, features, and models for prediction
 - [dashboards](/tree/main/dashboards): Directory that holds all files related to visualizations in Tableau format
 - [data](tree/main/data): Directory that holds all data: interim, processed, and raw
 - [docs](tree/main/docs): Directory holds all relevant documents and files for code, dashboards, data media, and project proposal
