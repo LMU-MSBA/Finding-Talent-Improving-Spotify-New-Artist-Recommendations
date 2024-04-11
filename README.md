@@ -1,4 +1,4 @@
-# group-02
+# Finding Talent Improving Spotify New Artist Recommendations
 ## Project Description
 The purpose of “Finding Talent: Improving Spotify New Artist Recommendations” is to help new artists understand how they can increase their popularity and streams, provide a better experience to end consumers, and in turn increase engagement from customers and new artists to increase Spotify’s revenue. The problem we aim to solve through our project is Spotify’s current lack of emphasis and prioritization of new independent artists. Through this initiative, Spotify will improve their strategy that supports new artists and identify opportunities through data in descriptive and diagnostic capacities. This project was inspired by the Spotify Associate Data Scientist job posting, this position has a variety of tasks, including: performing analyses and engineering on large datasets, evaluating Spotify’s ecosystem and creating visualizations, A/B Testing, statistics, and the ability to communicate all data findings. Because the nature of this role includes those daily tasks as well as requirements of only needing at least 2 years of experience in coding languages, a passion for music, and a degree in a quantitative field, this project can be done by an Associate Data Scientist. The Spotify Associate Data Scientist role inspired this project because it uses all the hard skills related to data, including data manipulation and visualization, as well supporting an initiative that is driven by a passion for music and artists which is representative of an ideal Spotify Associate Data Scientist.
 
@@ -47,7 +47,8 @@ Deliverables: Data Governance Policy, ERD, MySQL Data Warehouse, Data Dictionary
 
 4. Realize
 - Phase Description: “Data Science”, the company can now use its data to create machine learning models to simplify systems and make predictions
-- Deliverables: Predictive Model, A/B Test 
+- Deliverables: Predictive Model, A/B Test
+
 5. Differentiate
 - Phase Description: “Innovate, Top Down Data Literacy/Culture”, the company is now data driven and focused with data governance guiding them while receiving support from key leadership in a top-down model
 - Deliverables: Data Manifesto
