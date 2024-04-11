@@ -5,11 +5,11 @@ The purpose of â€œFinding Talent: Improving Spotify New Artist Recommendationsâ€
 ### Project Structure
 Directory Structure is as follows:
 - [code](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main/code) Directory that holds all script related to dashboard visualization in SQL format, ETL pipeline documentation, features, and models for prediction
-- [dashboards](/tree/main/dashboards): Directory that holds all files related to visualizations in Tableau format
-- [data](tree/main/data): Directory that holds all data: interim, processed, and raw
-- [docs](tree/main/docs): Directory holds all relevant documents and files for code, dashboards, data media, and project proposal
-- [models](tree/main/models): Directory that holds markdown file on predictive model
-- [presentations](tree/main/presentations): Directory that holds all PDFs regarding presentations to stakeholders
+- [dashboards](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main/dashboards): Directory that holds all files related to visualizations in Tableau format
+- [data](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main/data): Directory that holds all data: interim, processed, and raw
+- [docs](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main/docs): Directory holds all relevant documents and files for code, dashboards, data media, and project proposal
+- [models](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main/models): Directory that holds markdown file on predictive model
+- [presentations](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main/presentations): Directory that holds all PDFs regarding presentations to stakeholders
 
 ### Skills
 Business/Problem Solving
