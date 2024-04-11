@@ -35,20 +35,25 @@ Briefly explain each phase and list the project deliverables for each phase.
 
 1. Aspire
 Phase Description: “Glimpse Data’s Value”, the company is in the early data stages where focuses are on MVP’s and quick wins
+
 Deliverables: Project README, Business Problem Definition, Dataset(s), Descriptive Analytics Dashboard, Descriptive Analytics Presentation
 
 2. Mature
 Phase Description: “Data Quality, Single Source of Truth”, the company is passed its early stages and can now focus on data quality and data governance, with an emphasis on quality, security, compliance
+
 Deliverables: Data Governance Policy, ERD, MySQL Data Warehouse, Data Dictionary, ETL Pipeline, Data Lineage
 
 3. Industrialize
-- Phase Description: “Automate, Scale”, the company can now focus on automating processes and scaling them across the organization to increase efficiency, data governance is now embedded in systems and business processes
-- Deliverables: Automated ETL Pipeline, Diagnostic Analytics Dashboard, Diagnostic Analytics Presentation
+Phase Description: “Automate, Scale”, the company can now focus on automating processes and scaling them across the organization to increase efficiency, data governance is now embedded in systems and business processes
 
-4. Realize
-- Phase Description: “Data Science”, the company can now use its data to create machine learning models to simplify systems and make predictions
-- Deliverables: Predictive Model, A/B Test
+Deliverables: Automated ETL Pipeline, Diagnostic Analytics Dashboard, Diagnostic Analytics Presentation
 
-5. Differentiate
-- Phase Description: “Innovate, Top Down Data Literacy/Culture”, the company is now data driven and focused with data governance guiding them while receiving support from key leadership in a top-down model
-- Deliverables: Data Manifesto
+5. Realize
+Phase Description: “Data Science”, the company can now use its data to create machine learning models to simplify systems and make predictions
+
+Deliverables: Predictive Model, A/B Test
+
+6. Differentiate
+Phase Description: “Innovate, Top Down Data Literacy/Culture”, the company is now data driven and focused with data governance guiding them while receiving support from key leadership in a top-down model
+
+Deliverables: Data Manifesto
