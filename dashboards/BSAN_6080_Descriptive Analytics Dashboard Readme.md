@@ -3,21 +3,21 @@
 ## Title
 Artist Team Dashboard
 	
-###Purpose
+### Purpose
 This dashboard is designed to display a detailed descriptive analysis of track attributes    occupying the Billboard Top 100 chart to provide insights on fostering emerging artists on Spotify. 
 
-###Audience
+### Audience
 Spotify internal artist team, which typically consists of individuals who work directly with musicians, bands, and other creators to optimize their presence on the platform.
 Their primary focus revolves around fostering relationships with artists, their management teams, and record labels. They also serve as a liaison between Spotify and the artist community, addressing inquiries, and offering guidance and support.
 
 	
-###How does the dashboard address the business problem?
+### How does the dashboard address the business problem?
 Our goal is to utilize the 4 tiles of dashboards, along with the genre, quarter, and track attribute slicers, to dynamically showcase music trends and attributes that align with chart-topping success, then transforming these insights into actionable strategies. We want to equip the Spotify artist team with the at-a-glance tool to assist small artists with data-driven guidance to produce their songs with the qualities that resonate with the current chart dynamics and increase their opportunity for success.
 
-###Identify the business process that utilizes the dashboard for decision making. 
+### Identify the business process that utilizes the dashboard for decision making. 
 Operational process. This dashboard will be utilized to assist the artist team to strategize and foster emerging talent effectively. 
 
-###Which decisions are influenced by the dashboard?
+### Which decisions are influenced by the dashboard?
 The dashboard is a critical tool for shaping a variety of strategic decisions aimed at increasing the presence and success of small and emerging artists on Spotify. This includes selecting track attributes that are imperative for future music production with the potential for high listener appeal and chart impact, guiding the analysis of successful artist strategies that can be adopted, and optimizing music release schedule that aligns with seasonal trends.
 
 ## Access
