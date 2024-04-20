@@ -1,5 +1,5 @@
 
-![Spotify Logo](docs/data/Spotify_Logo_CMYK_Green-768x231.png)
+![alt text](docs/data/Spotify_Logo_CMYK_Green-768x231.png)
                                                                                                                                                                                       # April 2024
 ## The Data Manifesto
 
