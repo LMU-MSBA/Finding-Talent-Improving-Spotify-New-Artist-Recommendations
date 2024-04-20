@@ -1,5 +1,7 @@
 
 ![alt text](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/blob/main/docs/data/Spotify_Logo_CMYK_Green-768x231.png)
+
+
 ## April 2024
 ## The Data Manifesto
 
