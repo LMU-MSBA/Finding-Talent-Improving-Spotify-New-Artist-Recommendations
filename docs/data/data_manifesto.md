@@ -1,6 +1,6 @@
 
-![alt text](docs/data/Spotify_Logo_CMYK_Green-768x231.png)
-                                                                                                                                                                                      # April 2024
+![alt text](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/blob/main/docs/data/Spotify_Logo_CMYK_Green-768x231.png)
+## April 2024
 ## The Data Manifesto
 
 We believe that the values and principles described in this document ensure that we use data effectively, efficiently, responsibly, and innovatively. Our approach through this data manifesto ensures we provide a quality strategy to serve all our stakeholders, in terms of data usage and innovation for our products, services, and increasing our competitive advantage.
