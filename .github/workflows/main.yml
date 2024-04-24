@@ -1,0 +1,36 @@
+name: Sprint 02 _ ETL - Dataset Collection
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Runs at 3:00 AM EST every day
+
+jobs:
+  etl:
+    runs-on: windows-latest
+    steps:
+      - name: Set Timezone
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneWindows: "Eastern Standard Time"
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          path: "requirements.txt"
+      - name: Execute Python script
+        run: python sprint_02___etl_dataset_collection.py
+      - name: Commit files
+        run:
+          git config --local user.name JadaLavender
+          git config --local user.email "jada.lavender96@gmail.com
+          git add --all
+          git commit -am "GH ACTION Headlines $(date)"
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          username: github-actions
