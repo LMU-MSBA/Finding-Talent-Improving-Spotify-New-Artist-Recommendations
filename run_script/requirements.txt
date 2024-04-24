@@ -1,0 +1,10 @@
+### Import Libraries
+import os
+from dotenv import load_dotenv
+from datetime import datetime, timedelta
+from dateutil.relativedelta import relativedelta
+import pandas as pd
+import requests
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+import time
