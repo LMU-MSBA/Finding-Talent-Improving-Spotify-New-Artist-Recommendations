@@ -1242,3 +1242,5 @@ dim_track_df.to_sql('dim_track', con=engine, if_exists='append', index=False)
 dim_artist_df.to_sql('dim_artist', con=engine, if_exists='append', index=False)
 fact_playlist_df.to_sql('fact_playlist', con=engine, if_exists='append', index=False)
 intermediate_table_df.to_sql('intermediate_table', con=engine, if_exists='append', index=False)
+
+print("Sprint 02 | ETL - Database Connection: Status: Completed")
