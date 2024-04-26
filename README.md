@@ -24,7 +24,7 @@ Analytics
 
 Technology
 - RDS for data management and ETL skills
-- MySQL Workbench for data management and ETL Skills
+-  SQL Programming language skills on database client MySQL Workbench for data management and ETL Skills
 - Excel to manage and document data
 - Tableau for visualizations
 - GitHub to ensure proper documentation
