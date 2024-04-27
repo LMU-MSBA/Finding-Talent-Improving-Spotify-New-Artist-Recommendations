@@ -17,8 +17,7 @@ D03: Improve identification of opportunities
 Empower independent artists at Spotify to increase their popularity on the platform
 ### Key Result
 - At least 50% of artists who work with the Artist Team at Spotify will achieve a 20% increase, on average, in popularity by the end of Q4
-
-## OMTM
+### OMTM
 Popularity
 
 ## OKR Initiatives
