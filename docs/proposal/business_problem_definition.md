@@ -139,4 +139,4 @@ Popularity
 - **A/B Test**
   - A/B Test the UX/UI of the recommender
 - Create a Data Manifesto
- Work will be documented in this [Trello]https://trello.com/b/QMD9qJTn/bsan-6080-02-project-finding-talent-improving-spotify-new-artist-recommendations
+ # Work will be documented in this [Trello](https://trello.com/b/QMD9qJTn/bsan-6080-02-project-finding-talent-improving-spotify-new-artist-recommendations)
