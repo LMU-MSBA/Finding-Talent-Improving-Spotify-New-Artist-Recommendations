@@ -20,7 +20,9 @@ Business/Problem Solving
 Analytics
 - Understand and possess skill to take key takeaways from visualizations
 - Create descriptive analytics to understand and provide value to key stakeholders (new artist, customers, and Spotify leadership)
-- Identify trends in datasets that provide value to our investigation 
+- Identify trends in datasets that provide value to our investigation
+- Ability to identify and understand why something is happening through data with diagnostic analytics
+- Ability to use data to forecast and predct through predictive
 
 Technology
 - RDS for data management and ETL skills
